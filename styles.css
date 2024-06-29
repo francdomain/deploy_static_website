@@ -20,9 +20,12 @@ section {
   margin-bottom: 2rem;
 }
 
-h1,
-h2 {
+h1 {
   color: #ded4d4;
+}
+
+h2 {
+  color: #000;
 }
 
 p {
